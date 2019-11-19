@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "weq paaa",
+      "attention": true,
+      "tech": "John Connor",
+      "date": "2019-11-17T02:45:42.446Z",
+      "log": {
+        "id": 1,
+        "message": "weq paaa weee",
+        "attention": true,
+        "tech": "John Connor",
+        "date": "2019-11-19T02:19:18.458Z"
+      }
+    },
+    {
+      "message": "tewt1",
+      "attention": true,
+      "tech": "Johnnny Doe",
+      "date": "2019-11-19T02:19:36.233Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "sie es John doe",
+      "attention": true,
+      "tech": "Pablo Lopez",
+      "date": "2019-11-19T02:22:33.369Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Henry Antonio",
+      "lastName": "Munoz",
+      "id": 3
+    },
+    {
+      "firstName": "Ethan ",
+      "lastName": "Alexander",
+      "id": 4
+    },
+    {
+      "firstName": "Liz ",
+      "lastName": "smith",
+      "id": 6
+    }
+  ]
+}
